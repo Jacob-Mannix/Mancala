@@ -1,6 +1,6 @@
-### Mancala GUI
+## Mancala GUI
 
-## Project Participants
+### Project Participants
  - Jacob Lender
  - Daniel Jamsheedy
 
