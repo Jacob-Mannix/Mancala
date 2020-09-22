@@ -1,4 +1,8 @@
-Project Participants: Jacob Lender and Daniel Jamsheedy
+### Mancala GUI
+
+## Project Participants
+ - Jacob Lender
+ - Daniel Jamsheedy
 
 1. Instructions to the game will be provided to the player in game.
 
